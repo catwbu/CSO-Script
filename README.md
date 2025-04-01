@@ -2,7 +2,7 @@
 
 
 # CSO-Script - AutoHotkey 腳本集合
-##(僅此紀念2016.11.03~2017.04.02)
+## (僅此紀念2016.11.03~2017.04.02)
 
 ![GitHub](https://img.shields.io/badge/CSO-AutoHotkey%20Scripts-brightgreen)  
 這是一個為 **Counter-Strike Online (CSO)** 設計的 AutoHotkey (AHK) 腳本集合，通過模擬使用者輸入行為，幫助玩家更高效地執行遊戲操作。腳本主要針對特定武器（如 MOUSE 系列、R crow 系列等）設計，支援快速切換、連續射擊等功能。
